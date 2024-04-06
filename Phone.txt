@@ -2,4 +2,5 @@ Brand-iphone
 Call 
 wireless charging
 Bluetooth
-In display fingerprint
+
+Mobile Data
